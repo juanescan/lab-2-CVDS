@@ -20,6 +20,9 @@
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
 <<<<<<< HEAD
+    <property name="sun.java.command" value="C:\Users\nicolas.prieto-v\AppData\Local\Temp\surefire17443507287432471940\surefirebooter-20240822145443859_3.jar C:\Users\nicolas.prieto-v\AppData\Local\Temp\surefire17443507287432471940 2024-08-22T14-54-43_625-jvmRun1 surefire-20240822145443859_1tmp surefire_0-20240822145443859_2tmp"/>
+=======
+<<<<<<< HEAD
     <property name="sun.java.command" value="C:\Users\juan.cancelado-s.LABINFO\AppData\Local\Temp\surefire11735838495859956563\surefirebooter-20240822141940794_3.jar C:\Users\juan.cancelado-s.LABINFO\AppData\Local\Temp\surefire11735838495859956563 2024-08-22T14-19-40_138-jvmRun1 surefire-20240822141940794_1tmp surefire_0-20240822141940794_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\juan.cancelado-s.LABINFO\Desktop\labcvds\Patterns\target\test-classes;C:\Users\juan.cancelado-s.LABINFO\Desktop\labcvds\Patterns\target\classes;C:\Users\juan.cancelado-s.LABINFO\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
@@ -27,6 +30,7 @@
     <property name="user.home" value="C:\Users\juan.cancelado-s.LABINFO"/>
 =======
     <property name="sun.java.command" value="C:\Users\nicolas.prieto-v\AppData\Local\Temp\surefire2651499401539736211\surefirebooter-20240822144150186_3.jar C:\Users\nicolas.prieto-v\AppData\Local\Temp\surefire2651499401539736211 2024-08-22T14-41-49_999-jvmRun1 surefire-20240822144150186_1tmp surefire_0-20240822144150186_2tmp"/>
+>>>>>>> master
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\nicolas.prieto-v\Desktop\lab-2-CVDS\Patterns\target\test-classes;C:\Users\nicolas.prieto-v\Desktop\lab-2-CVDS\Patterns\target\classes;C:\Users\nicolas.prieto-v\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -47,6 +51,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
 <<<<<<< HEAD
+    <property name="surefire.real.class.path" value="C:\Users\nicolas.prieto-v\AppData\Local\Temp\surefire17443507287432471940\surefirebooter-20240822145443859_3.jar"/>
+=======
+<<<<<<< HEAD
     <property name="surefire.real.class.path" value="C:\Users\juan.cancelado-s.LABINFO\AppData\Local\Temp\surefire11735838495859956563\surefirebooter-20240822141940794_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -54,6 +61,7 @@
     <property name="user.name" value="juan.cancelado-s"/>
 =======
     <property name="surefire.real.class.path" value="C:\Users\nicolas.prieto-v\AppData\Local\Temp\surefire2651499401539736211\surefirebooter-20240822144150186_3.jar"/>
+>>>>>>> master
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
